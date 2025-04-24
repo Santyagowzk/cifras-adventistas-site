@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/advento-cifras/static/css/main.e760850c.css",
-    "main.js": "/advento-cifras/static/js/main.1440b7c2.js",
+    "main.css": "/advento-cifras/static/css/main.78726c34.css",
+    "main.js": "/advento-cifras/static/js/main.bc5f57e6.js",
     "index.html": "/advento-cifras/index.html",
-    "main.e760850c.css.map": "/advento-cifras/static/css/main.e760850c.css.map",
-    "main.1440b7c2.js.map": "/advento-cifras/static/js/main.1440b7c2.js.map"
+    "main.78726c34.css.map": "/advento-cifras/static/css/main.78726c34.css.map",
+    "main.bc5f57e6.js.map": "/advento-cifras/static/js/main.bc5f57e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e760850c.css",
-    "static/js/main.1440b7c2.js"
+    "static/css/main.78726c34.css",
+    "static/js/main.bc5f57e6.js"
   ]
 }
